@@ -12,10 +12,9 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## [http://localhost:3000/cats](http://localhost:3000/cats).  
+![Cats API](https://user-images.githubusercontent.com/67031155/173636133-8b74452a-1994-4574-8275-4474c39761b0.png)  
 
-[http://localhost:3000/pokemons](http://localhost:3000/pokemons).  
+## [http://localhost:3000/pokemons](http://localhost:3000/pokemons).  
+![Pokemons API](https://user-images.githubusercontent.com/67031155/173636276-dce5c417-842c-478a-b717-e681b4c209c4.png)
 
-[]
-
-[http://localhost:3000/cats](http://localhost:3000/cats).  
